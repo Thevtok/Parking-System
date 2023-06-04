@@ -1,0 +1,15 @@
+E:\github\parking-system\bin\Debug\net7.0\parking-system.exe
+E:\github\parking-system\bin\Debug\net7.0\parking-system.deps.json
+E:\github\parking-system\bin\Debug\net7.0\parking-system.runtimeconfig.json
+E:\github\parking-system\bin\Debug\net7.0\parking-system.dll
+E:\github\parking-system\bin\Debug\net7.0\parking-system.pdb
+E:\github\parking-system\obj\Debug\net7.0\parking-system.csproj.AssemblyReference.cache
+E:\github\parking-system\obj\Debug\net7.0\parking-system.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\parking-system\obj\Debug\net7.0\parking-system.AssemblyInfoInputs.cache
+E:\github\parking-system\obj\Debug\net7.0\parking-system.AssemblyInfo.cs
+E:\github\parking-system\obj\Debug\net7.0\parking-system.csproj.CoreCompileInputs.cache
+E:\github\parking-system\obj\Debug\net7.0\parking-system.dll
+E:\github\parking-system\obj\Debug\net7.0\refint\parking-system.dll
+E:\github\parking-system\obj\Debug\net7.0\parking-system.pdb
+E:\github\parking-system\obj\Debug\net7.0\parking-system.genruntimeconfig.cache
+E:\github\parking-system\obj\Debug\net7.0\ref\parking-system.dll
